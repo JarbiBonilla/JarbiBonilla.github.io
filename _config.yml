@@ -1,11 +1,11 @@
 # Site settings
 author: Jarbi Bonilla
-title: 
+title: Flatiron School Blog
 header-img: img/home-bg.png
 email: jarbibonilla@gmail.com
 copyright_name: Jarbi Bonilla
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Day in the life of a FS student 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JarbiBonilla
